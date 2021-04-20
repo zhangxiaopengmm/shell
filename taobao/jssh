@@ -16,7 +16,7 @@ function job
 	echo $token >> $_JOB_FILE
 }
 
-# waiting for jobs done.
+# waiting for jobs done.dfdfd
 function wait_for_job_done
 {
 	while [[ True ]];
